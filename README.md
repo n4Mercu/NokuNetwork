@@ -1,32 +1,34 @@
-# TitaniumPhoenix V2
+# Noku Network
 
-A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
+```diff
 
-Initial Release Date: 02/11/2019.
+! A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/phoenix-reborn)
+! Initial Release Date: 02/11/2019.
 
-#### Basic info
+! [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kinglalu/special-octo-doodle)
 
-This web-app, measuring about 20 MB, is designed to be as light on server storage as possible.
+ ### Basic info
 
-# Features
+! This web-app, measuring about 20 MB, is designed to be as light on server storage as possible.
 
-#### Locally Stored and Hosted Proxy Server
+ # Features
 
-This allows your PhoenixHub site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
+!  Locally Stored and Hosted Proxy Server
 
-#### Games
+! This allows your PhoenixHub site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
 
-This site has links to many games on a CDN for quick and efficient access.
+ #### Games
 
-#### Chatboxes
+! This site has links to many games on a CDN for quick and efficient access.
 
-Chatboxes for TitaniumNetwork's Services. Replace if needed.
+ #### Chatboxes
 
-#### Suggest Some Stuff!
+! Chatboxes for Noku Network's Services. Replace if needed.
+
+ #### Suggest Some Stuff!
  
-Create an Issue if you have problems with the site and a staff member will address your concerns.
+! Create an Issue if you have problems with the site and a staff member will address your concerns.
 
-#
-Property of TitaniumNetwork. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of TitaniumPhoenix are open-source.
+
+! Property of Noku Network. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of Noku Network are open-source.``
