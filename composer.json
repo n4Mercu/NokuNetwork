@@ -1,5 +1,5 @@
 {
-        "name": "titaniumnetwork-dev/phoenix-reborn",
+        "name": "NokuNetwork",
         "type": "project",
         "license": "MIT",
         "description": "Web proxy application project powered by PHP-Proxy library",
