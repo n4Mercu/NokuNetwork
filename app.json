@@ -1,7 +1,7 @@
 {
-  "name": "TitaniumPhoenix",
-  "description": "TitaniumNetwork's Flagship Proxy Site.",
-  "repository": "https://github.com/titaniumnetwork-dev/phoenix-reborn",
+  "name": "Noku Network",
+  "description": "Noku Network's Flagship Proxy Site.",
+  "repository": "https://github.com/n4-Noku",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["proxy", "filter", "bypass"]
 }
